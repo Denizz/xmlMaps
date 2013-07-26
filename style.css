@@ -8,3 +8,8 @@
 .casual {
 	border: 1px grey solid;
 }
+.tooltip {
+	border:1px dotted;
+	visibility: visible;
+	position: absolute;
+}
