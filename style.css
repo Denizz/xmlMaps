@@ -1,0 +1,10 @@
+/*
+*
+*/
+.active {
+	border:1px red solid;
+
+}
+.casual {
+	border: 1px grey solid;
+}
