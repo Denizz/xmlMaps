@@ -15,7 +15,7 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="рисунок.svg">
   <defs
-     id="defs3719" />
+     id="defs3719">
   <style type="text/css">
   .city {
     stroke: #BDBDAE;
@@ -31,8 +31,8 @@
     fill: #B2FF99;
   
   }
-</style> 
-	 
+</style>
+</defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
